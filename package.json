@@ -1,0 +1,24 @@
+{
+  "name": "noisxa",
+  "version": "1.0.0",
+  "description": "A blazing-fast, modern HTTP client designed to outperform Axios — minimal, extensible, and built for control.",
+  "keywords": [
+    "Fetch"
+  ],
+  "homepage": "https://github.com/firozkhan4/Noisxa#readme",
+  "bugs": {
+    "url": "https://github.com/firozkhan4/Noisxa/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firozkhan4/Noisxa.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Firoz Khan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
